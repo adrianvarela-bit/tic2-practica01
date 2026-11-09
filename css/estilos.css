@@ -9,7 +9,7 @@ body {
 li {
     color: rgb(94, 255, 0);
 }
-  
+
 h1 {
     color: #1c693a;
     margin: 20px;
@@ -26,11 +26,11 @@ h3 {
 }
 
 .card-title {
-    color: antiquewhite;
+    color: #ffffff;
 }
 
 .card-text {
-    color: antiquewhite;
+    color: #ffffff;
 }
 
 .tarjeta {
@@ -40,10 +40,6 @@ h3 {
 
 p {
     margin: 10px;
-}
-
-div {
-    margin: 0px 5px;
 }
 
 .card {
@@ -60,21 +56,37 @@ caption {
 }
 
 .accordion-body {
-    background-color:#1f1f1f;
+    background-color: #1f1f1f;
 }
 
 .accordion-item {
-    background-color:#0c0c0c;
+    background-color: #0c0c0c;
 }
 
 .accordion-button {
-    background-color:#0c0c0c;
+    background-color: #0c0c0c;
 }
 
 .card-header {
-    color: #cbd5e1;
+    color: #ffffff;
 }
 
 .conclusion {
     height: auto;
+    width: 100%;
+    background-color: rgb(17, 17, 17);
+}
+
+.conclusion .card-header {
+    background-color: #0c0c0c;
+    color: rgb(94, 255, 0);
+    border-bottom: 1px solid #16c559;
+}
+
+.conclusion .card-title {
+    color: #16c559;
+}
+
+.conclusion .card-text {
+    color: #ffffff;
 }
