@@ -8,21 +8,35 @@
     <link rel="stylesheet" href="./css/estilos.css">
   </head>
 
+  <title>Diseña tu próximo paso · Salidas</title>
   <body>
     <header>
-      <nav>
-      <ul class="nav nav-tabs">
-        <li class="nav-item">
-          <a class="nav-link" href="index.html">Inicio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="opciones.html">Opciones</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="salidas.html">Salidas</a>
-        </li>
-      </ul>
-    </nav>
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Menú principal">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">Diseña tu próximo paso</a>
+
+          <button class="navbar-toggler" type="button"
+                  data-bs-toggle="collapse" data-bs-target="#menuPrincipal"
+                  aria-controls="menuPrincipal" aria-expanded="false"
+                  aria-label="Abrir o cerrar el menú">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="menuPrincipal">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="index.html">Inicio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="opciones.html">Opciones</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="salidas.html">Salidas</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     </header>
     <main>
     <h1>Salidas</h1>
