@@ -100,3 +100,7 @@ Adrián Varela Timofte
 ## Repositorio
 
 [GitHub: tic2-practica01](https://github.com/adrianvarela-bit/tic2-practica01)
+
+## Estado
+
+Terminado.
