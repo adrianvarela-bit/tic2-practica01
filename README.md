@@ -88,7 +88,7 @@ Las capturas de las pruebas se guardan en la carpeta `evidencias/`.
 
 ## Autor
 
-adrianvarela-bit
+Adrián Varela Timofte
 
 ## Repositorio
 
