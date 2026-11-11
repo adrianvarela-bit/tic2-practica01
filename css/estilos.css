@@ -116,3 +116,18 @@ button:focus-visible {
         height: 200px;
     }
 }
+
+.accordion-title {
+    display: block;
+    color: #16c559;
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 20px;
+}
+
+@media (max-width: 576px) {
+    .accordion-title {
+        font-size: 1.5rem;
+    }
+}
