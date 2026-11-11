@@ -83,9 +83,15 @@ La información sobre plazas, notas de admisión y requisitos puede cambiar en c
 
 Se revisa la adaptación de la web a pantallas de 390, 768 y 1280 píxeles. También se comprueban el menú móvil, la navegación con teclado, los enlaces, las imágenes y la tabla en pantallas pequeñas.
 
-Se corrigieron los estilos de los títulos del acordeón de salidas.html para mantener su tamaño y color.
+Se han revisado los tres archivos HTML con [W3C Validator](https://validator.w3.org/) y se han corregido los errores detectados.
 
-Las capturas de las pruebas se guardan en la carpeta evidencias/.
+Se corrigieron los estilos de los títulos del acordeón de `salidas.html` para mantener su tamaño y color.
+
+Las capturas de las pruebas se guardan en la carpeta `evidencias/`.
+
+## Uso de inteligencia artificial
+
+Se ha utilizado ChatGPT como apoyo para generar las tres imágenes y para revisar y redactar parte del contenido y del código.
 
 ## Autor
 
