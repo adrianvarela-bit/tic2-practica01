@@ -94,4 +94,4 @@ adrianvarela-bit
 
 ## Repositorio
 
-[GitHub: tic2practica01](https://github.com/adrianvarela-bit/tic2practica01)
+[GitHub: tic2practica01](https://github.com/adrianvarela-bit/tic2-practica01)
