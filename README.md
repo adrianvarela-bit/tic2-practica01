@@ -13,18 +13,19 @@ Las tres opciones son:
 ## Estructura del proyecto
 
 ```text
-tic2practica01/
+tic2-practica01/
+├── css/
+│   └── estilos.css
+├── evidencias/
+├── img/
+│   ├── informatica3.png
+│   ├── ade3.png
+│   └── medicina3.png
+├── .gitattributes
 ├── index.html
 ├── opciones.html
 ├── salidas.html
-├── README.md
-├── css/
-│   └── estilos.css
-├── img/
-│   ├── informaticac3.png
-│   ├── ade3.png
-│   └── medicina3.png
-└── evidencias/
+└── README.md
 ```
 
 ## Tecnologías
@@ -68,9 +69,9 @@ La información sobre plazas, notas de admisión y requisitos puede cambiar en c
 
 | Archivo | Autor y título | Fuente | Licencia | Cambios |
 |---|---|---|---|---|
-| `informaticac3.png` | Imagen generada con ChatGPT (OpenAI): Ingeniería Informática | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
-| `ade3.png` | Imagen generada con ChatGPT (OpenAI): Administración y Dirección de Empresas | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
-| `medicina3.png` | Imagen generada con ChatGPT (OpenAI): Medicina | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `informatica3.png` | Imagen generada con ChatGPT (OpenAI): Ingeniería Informática | [ChatGPT](https://chatgpt.com/) | Imagen generada con IA mediante ChatGPT (OpenAI). No se le ha aplicado una licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `ade3.png` | Imagen generada con ChatGPT (OpenAI): Administración y Dirección de Empresas | [ChatGPT](https://chatgpt.com/) | Imagen generada con IA mediante ChatGPT (OpenAI). No se le ha aplicado una licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `medicina3.png` | Imagen generada con ChatGPT (OpenAI): Medicina | [ChatGPT](https://chatgpt.com/) | Imagen generada con IA mediante ChatGPT (OpenAI). No se le ha aplicado una licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
 
 ## Decisiones técnicas
 
