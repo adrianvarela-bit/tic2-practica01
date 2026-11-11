@@ -89,10 +89,6 @@ Se corrigieron los estilos de los títulos del acordeón de `salidas.html` para 
 
 Las capturas de las pruebas se guardan en la carpeta `evidencias/`.
 
-## Uso de inteligencia artificial
-
-Se ha utilizado ChatGPT como apoyo para generar las tres imágenes y para revisar y redactar parte del contenido y del código.
-
 ## Autor
 
 Adrián Varela Timofte
