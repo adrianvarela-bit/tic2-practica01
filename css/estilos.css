@@ -96,3 +96,23 @@ caption {
     height: 280px;
     object-fit: cover;
 }
+
+a:focus-visible,
+button:focus-visible {
+    outline: 3px solid #ffda6a;
+    outline-offset: 3px;
+}
+
+@media (max-width: 576px) {
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .card-img-top {
+        height: 200px;
+    }
+}
