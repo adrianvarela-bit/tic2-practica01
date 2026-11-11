@@ -23,8 +23,7 @@ tic2practica01/
 ├── img/
 │   ├── informaticac3.png
 │   ├── ade3.png
-│   ├── medicina3.png
-│   └── fondooscuro.gif
+│   └── medicina3.png
 └── evidencias/
 ```
 
@@ -67,12 +66,11 @@ La información sobre plazas, notas de admisión y requisitos puede cambiar en c
 
 ## Imágenes y créditos
 
-| Archivo             | Autor y título                                                               | Fuente                                                                                | Licencia                                                                                                                                                                                                                          | Cambios                                                            |
-| ------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| `informatica3.png` | Imagen generada con ChatGPT (OpenAI): Ingeniería Informática                 | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
-| `ade3.png`          | Imagen generada con ChatGPT (OpenAI): Administración y Dirección de Empresas | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
-| `medicina3.png`     | Imagen generada con ChatGPT (OpenAI): Medicina                               | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
-| `fondooscuro.gif`   | Fondo oscuro animado. Autoría no identificada.                               | Archivo local del proyecto: `img/fondooscuro.gif`. No consta su procedencia original. | No identificada.                                                                                                                                                                                                                  | No consta si ha sido modificado.                                   |
+| Archivo | Autor y título | Fuente | Licencia | Cambios |
+|---|---|---|---|---|
+| `informaticac3.png` | Imagen generada con ChatGPT (OpenAI): Ingeniería Informática | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `ade3.png` | Imagen generada con ChatGPT (OpenAI): Administración y Dirección de Empresas | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `medicina3.png` | Imagen generada con ChatGPT (OpenAI): Medicina | [ChatGPT](https://chatgpt.com/) | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
 
 ## Decisiones técnicas
 
@@ -94,4 +92,4 @@ adrianvarela-bit
 
 ## Repositorio
 
-[GitHub: tic2practica01](https://github.com/adrianvarela-bit/tic2-practica01)
+[GitHub: tic2-practica01](https://github.com/adrianvarela-bit/tic2-practica01)
