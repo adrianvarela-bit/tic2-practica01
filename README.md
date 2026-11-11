@@ -1,26 +1,19 @@
-# Mi proyecto TIC II
-
-**Diseña tu próximo paso**
+# Diseña tu próximo paso
 
 ## Descripción
 
-Web de tres páginas para comparar tres grados universitarios: Ingeniería Informática y ADE en la UDC, y Medicina en la USC.
+Página web para comparar tres grados universitarios y conocer sus estudios, requisitos de acceso y posibles salidas profesionales.
 
-Incluye una portada con tarjetas, una tabla comparativa y una página con salidas profesionales y una conclusión.
+Las tres opciones son:
 
-## Tecnologías
+- Ingeniería Informática, en la Universidade da Coruña (UDC).
+- Administración y Dirección de Empresas (ADE), en la Universidade da Coruña (UDC).
+- Medicina, en la Universidade de Santiago de Compostela (USC).
 
-- **HTML5:** estructura de las páginas.
-- **CSS3:** diseño propio en `css/estilos.css`.
-- **Bootstrap 5.3.8:** usado para las tarjetas, el menú y el diseño adaptable. Se carga desde jsDelivr, por lo que necesita Internet.
-- **Git y GitHub:** para guardar los cambios y subir el proyecto.
-
-Bootstrap aporta componentes y herramientas de diseño. El contenido HTML y los estilos propios los he hecho para este proyecto.
-
-## Estructura y cómo abrirlo
+## Estructura del proyecto
 
 ```text
-tic2-practica01/
+tic2practica01/
 ├── index.html
 ├── opciones.html
 ├── salidas.html
@@ -28,61 +21,77 @@ tic2-practica01/
 ├── css/
 │   └── estilos.css
 ├── img/
+│   ├── informaticac3.png
+│   ├── ade3.png
+│   ├── medicina3.png
+│   └── fondooscuro.gif
 └── evidencias/
 ```
 
-Para abrir la web, basta con abrir `index.html` en un navegador. Hace falta Internet para cargar Bootstrap.
+## Tecnologías
 
-**Repositorio:** https://github.com/adrianvarela-bit/tic2-practica01
+- HTML5.
+- CSS3.
+- Bootstrap 5.3.8.
+- JavaScript incluido en Bootstrap.
+- Git y GitHub.
+
+## Cómo abrir la web
+
+1. Descargar o clonar el repositorio.
+2. Abrir el archivo `index.html` en un navegador.
+3. Utilizar el menú para visitar las páginas de opciones y salidas.
+
+Es necesaria conexión a Internet para cargar Bootstrap desde su CDN.
 
 ## Fuentes oficiales
 
-**Ingeniería Informática — UDC**
+Información consultada para el curso 2026/2027. Fecha de consulta: 11 de noviembre de 2026.
 
-1. [Información del grado](https://estudos.udc.es/es/study/detail/614G01V01)
-2. [Acceso y admisión](https://estudos.udc.es/es/study/admission/614G01V01)
+### Ingeniería Informática (UDC)
 
-**Medicina — USC**
+- [Información del grado y plan de estudios](https://estudos.udc.es/es/study/detail/614g01v01).
+- [Acceso y admisión](https://estudos.udc.es/es/study/admission/614G01V01).
 
-3. [Información del grado](https://www.usc.gal/es/estudios/grados/ciencias-salud/grado-medicina)
-4. [Plan de estudios — BOE](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-4510)
+### Administración y Dirección de Empresas (UDC)
 
-**ADE — UDC**
+- [Información del grado y plan de estudios](https://estudos.udc.es/es/study/detail/611g02v01).
+- [Acceso y admisión](https://estudos.udc.es/es/study/admission/611g02v01).
 
-5. [Información del grado](https://estudos.udc.es/es/study/detail/611G02V01)
-6. [Acceso y admisión](https://estudos.udc.es/es/study/admission/611G02V01)
+### Medicina (USC)
 
-**Fecha de consulta:** 11/11/2026.
+- [Información del Grado en Medicina](https://www.usc.gal/es/estudios/grados/ciencias-salud/grado-medicina).
+- [Admisión en el Sistema Universitario de Galicia (CIUG)](https://www.ciug.gal/admision-sug).
 
-## Créditos de las imágenes
+La información sobre plazas, notas de admisión y requisitos puede cambiar en cada convocatoria.
 
-Completar los datos con la información de la página original de cada imagen.
+## Imágenes y créditos
 
-| Archivo | Autor y título | Fuente | Licencia | Cambios |
-|---|---|---|---|---|
-| `informatica.png` | [Autor y título] | [Enlace] | [Licencia] | [Cambios] |
-| `ade2.png` | [Autor y título] | [Enlace] | [Licencia] | [Cambios] |
-| `medicina.png` | [Autor y título] | [Enlace] | [Licencia] | [Cambios] |
-| `fondooscuro.gif` | [Autor y título] | [Enlace] | [Licencia] | [Cambios] |
+| Archivo             | Autor y título                                                               | Fuente                                                                                | Licencia                                                                                                                                                                                                                          | Cambios                                                            |
+| ------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| `informaticac3.png` | Imagen generada con ChatGPT (OpenAI): Ingeniería Informática                 | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `ade3.png`          | Imagen generada con ChatGPT (OpenAI): Administración y Dirección de Empresas | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `medicina3.png`     | Imagen generada con ChatGPT (OpenAI): Medicina                               | [ChatGPT](https://chatgpt.com/)                                                       | Resultado generado por IA. Según los [términos de OpenAI](https://openai.com/policies/terms-of-use/), el usuario es titular del resultado frente a OpenAI, en la medida permitida por la ley. No tiene licencia Creative Commons. | Recortada del mosaico original para obtener una imagen individual. |
+| `fondooscuro.gif`   | Fondo oscuro animado. Autoría no identificada.                               | Archivo local del proyecto: `img/fondooscuro.gif`. No consta su procedencia original. | No identificada.                                                                                                                                                                                                                  | No consta si ha sido modificado.                                   |
 
 ## Decisiones técnicas
 
-- **HTML:** he separado la web en tres páginas y organizado la información con títulos, enlaces, tarjetas y una tabla.
-- **CSS:** he creado una hoja propia para cambiar colores, tamaños, márgenes y otros detalles. También he añadido foco visible para el teclado y ajustes para móviles.
-- **Bootstrap:** he usado su retícula, tarjetas, botones, menú desplegable y acordeones para adaptar la web a distintas pantallas.
+1. Se ha utilizado HTML semántico para organizar el contenido mediante cabecera, navegación, contenido principal y pie de página.
+2. Se ha utilizado Bootstrap para crear tarjetas, columnas adaptables, menú desplegable y tabla con desplazamiento horizontal en pantallas pequeñas.
+3. Se ha creado una hoja CSS propia para los colores, tamaños, márgenes, bordes, foco visible y ajustes para móviles.
 
-## Pruebas y error corregido
+## Pruebas y correcciones
 
-He revisado las tres páginas en 390, 768 y 1280 píxeles. También hay que comprobar el menú, los enlaces, las imágenes, el teclado y que la tabla se desplace dentro de su espacio en móvil.
+Se revisa la adaptación de la web a pantallas de 390, 768 y 1280 píxeles. También se comprueban el menú móvil, la navegación con teclado, los enlaces, las imágenes y la tabla en pantallas pequeñas.
 
-Las capturas se guardan en `evidencias/`: portada en los tres tamaños y tabla en móvil. También se revisa el HTML con el [validador W3C](https://validator.w3.org/).
+Se corrigieron los estilos de los títulos del acordeón de `salidas.html` para mantener su tamaño y color.
 
-**Error corregido:** [Indicar un error real que se haya encontrado y solucionado].
+Las capturas de las pruebas se guardan en la carpeta `evidencias/`.
 
 ## Autor
 
-Adrián Varela Timofte.
+adrianvarela-bit
 
-## Estado
+## Repositorio
 
-Terminado.
+[GitHub: tic2practica01](https://github.com/adrianvarela-bit/tic2practica01)
